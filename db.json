@@ -1,0 +1,194 @@
+{
+  "History": [
+    {
+      "question": "Britain and France declared war on Germany on 3 September 1939 after the German invasion of which country?Britain and France declared war on Germany on 3 September 1939 after the German invasion of which country?",
+      "options": [
+        "Denmark",
+        "Poland",
+        "Czechoslovakia",
+        "India"
+      ],
+      "correct": "Poland",
+      "id": "H1",
+      "givenAns": ""
+    },
+    {
+      "question": "When did Germany invade the USSR?",
+      "options": [
+        "April 1940",
+        "May 1940",
+        "June 1941",
+        "Jan 1939"
+      ],
+      "correct": "June 1941",
+      "id": "H2",
+      "givenAns": ""
+    },
+    {
+      "question": "What was the name of Britain's new bombing policy in May 1942 that targeted German cities?",
+      "options": [
+        "Tactical bombing",
+        "Area bombing",
+        "Precision bombing",
+        "None of the above"
+      ],
+      "correct": "Area bombing",
+      "id": "H3",
+      "givenAns": ""
+    }
+  ],
+  "Maths": [
+    {
+      "question": "2+3+7 = ?",
+      "options": [
+        "15",
+        "13",
+        "12",
+        "11"
+      ],
+      "correct": "12",
+      "id": "H1",
+      "givenAns": ""
+    },
+    {
+      "question": "5+(10/2)-9 = ?",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "correct": "1",
+      "id": "H2",
+      "givenAns": ""
+    },
+    {
+      "question": "5*5+5*5 = ?",
+      "options": [
+        "150",
+        "250",
+        "100",
+        "50"
+      ],
+      "correct": "50",
+      "id": "H3",
+      "givenAns": ""
+    }
+  ],
+  "Physics": [
+    {
+      "question": "The speed of light will be minimum while passing through_______",
+      "options": [
+        "Water",
+        "Vaccum",
+        "Air",
+        "Glass"
+      ],
+      "correct": "Glass",
+      "id": "H1",
+      "givenAns": ""
+    },
+    {
+      "question": "Which of the following is not a vector quantity?",
+      "options": [
+        "Speed",
+        "Velocity",
+        "Torque",
+        "Displacement"
+      ],
+      "correct": "Speed",
+      "id": "H2",
+      "givenAns": ""
+    },
+    {
+      "question": "The most suitable unit for expressing nuclear radius is_______",
+      "options": [
+        "Micro",
+        "Nano",
+        "Fermi",
+        "Angstrom"
+      ],
+      "correct": "Fermi",
+      "id": "H3",
+      "givenAns": ""
+    },
+    {
+      "question": "Rain drops acquire spherical shape due to _______",
+      "options": [
+        "Viscosity",
+        "Surface Tension",
+        "Friction",
+        "Elasticity"
+      ],
+      "correct": "Surface Tension",
+      "id": "H4",
+      "givenAns": ""
+    }
+  ],
+  "Chemistry": [
+    {
+      "question": "What is the structure of IF7 ?",
+      "options": [
+        "Triagonal bipyramid",
+        "Pentagonal bipyramid",
+        "tetrahedral",
+        "Square pyramid"
+      ],
+      "correct": "Pentagonal bipyramid",
+      "id": "H1",
+      "givenAns": ""
+    },
+    {
+      "question": "Which pair of atoms has the highest electronegativity difference?",
+      "options": [
+        "F-F",
+        "Ca-F",
+        "H-F",
+        "Na-F"
+      ],
+      "correct": "Na-F",
+      "id": "H2",
+      "givenAns": ""
+    },
+    {
+      "question": "Among the given nutrients, milk is a poor source of",
+      "options": [
+        "Calcium",
+        "Protein",
+        "Vitamin C",
+        "Carbohydrate"
+      ],
+      "correct": "Vitamin C",
+      "id": "H3",
+      "givenAns": ""
+    }
+  ],
+  "English": [
+    {
+      "question": "The thief was sent to _____ prison",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "correct": "the",
+      "id": "H1",
+      "givenAns": ""
+    }
+  ],
+  "temp": [
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": "",
+      "id": "H",
+      "givenAns": ""
+    }
+  ]
+}

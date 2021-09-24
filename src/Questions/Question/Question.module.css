@@ -1,0 +1,131 @@
+.Question {
+    position: relative;
+    top: 40px;
+    margin: 16px auto;
+    background: #f9f9f9;
+    color: #121212;
+    width: 95vw;
+    height: 85vh;
+    padding: 16px;
+    text-align: left;
+    border-radius: 10px;
+    overflow-y: scroll;
+}
+
+.Question p {
+    border-radius: 10px;
+}
+
+.QuesNoP {
+    color: #6787e3;
+}
+
+hr {
+    background: #6787e3;
+    border: 0.5px solid #6787e3;
+}
+
+.Ques {
+    text-align: justify;
+    margin: 40px auto;
+}
+
+.Option {
+    margin: 16px auto;
+    padding: 16px;
+    border: 1px solid #ccc;
+}
+
+.option{
+    margin: 16px auto;
+    padding: 16px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.option:hover {
+    background-color: lightskyblue;
+}
+
+.Blue {
+    background-color: rgb(85, 182, 243);
+}
+
+.Red {
+    background-color: salmon;
+}
+
+.Green {
+    background-color: lightgreen;
+}
+
+.temp {
+    height: 15px;
+}
+
+.btn {
+    position: relative;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
+.Button {
+    font: inherit;
+    padding: 8px 16px;
+    margin: 16px auto;
+    border-radius: 3px;
+    font-weight: 200;
+}
+
+.Button:focus{
+outline: 0;
+}
+
+
+.leftbtn {
+    background: #f9f9f9;
+    color: #6787e3;
+    border: 2px solid #6787e3;
+    cursor: pointer;
+    position: relative;
+    float: left;
+}
+
+.ldisabled {
+    background: #f9f9f9;
+    color: #dadada;
+    border: 2px solid #dadada;
+    cursor: not-allowed;
+    position: relative;
+    float: left;
+}
+
+.rightbtn {
+    background: #6787e3;
+    color: #f9f9f9;
+    border: 2px solid #6787e3;
+    cursor: pointer;
+    position: relative;
+    float: right;
+}
+
+.rdisabled {
+    background: #f9f9f9;
+    color: #dadada;
+    border: 2px solid #dadada;
+    cursor: not-allowed;
+    position: relative;
+    float: right;
+}
+
+@media (min-width: 500px) {
+    .Question {
+        width: 450px;
+    }
+}
+
